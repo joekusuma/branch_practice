@@ -1,5 +1,7 @@
 # Favorite Things
 
+Howdy partner! 
+
 These are a few of my favorite things:
 
 - Raindrops on roses
